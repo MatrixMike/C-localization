@@ -1,0 +1,2 @@
+geany compile and build works wherwas Makefile does not : could be pedantic
+
